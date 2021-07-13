@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MortgateCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MortgateCalculator_jar</output-path>
+    <root id="archive" name="Mortgate Calculator.jar">
+      <element id="module-output" name="Mortgate Calculator" />
+    </root>
+  </artifact>
+</component>
